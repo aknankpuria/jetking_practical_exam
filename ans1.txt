@@ -1,0 +1,27 @@
+1) How to create your own Cryptocurrency token on Binance
+Blockchain?
+2) How to mint your created Cryptocurrency token on Binance
+Blockchain?
+
+
+As i was unable to get the BNB faucet as bnb faucet arent free anymore. i have depployed and minted token name LUFFYTARO on polygon testnet.
+
+ans--
+1. create metamask account
+2. Add the polygon testnet in matamask.
+3. add the faucet from https://faucet.polygon.technology .
+4. visit the https://www.createmytoken.com/token-builder/ link to create token.
+5. choose polygon testnet.
+6. enter the Token name and Token Symbol . -> in my csse it was LUFFYTARO AND LUFFY.
+7. adjust the features acccording to you .
+8. set the initial supply and max supply.
+9. click on deploy.
+10. do the blind sign with  metamsk to deploy the contract . 
+11. after some time and gas fee contract will be depployed.
+12. https://mumbai.polygonscan.com   - scann the tokon contract here
+--- using contract hash adress for me tht is 0x15a3a21745389a6c062c0365212df0a6ba2aaffc3c28066dbcddc940f6b57006
+13 . add the token to your metamask. 
+14 . now  you can send your token to your friends . 
+-- token is minted  
+
+15 .  i have shown this in my screenshots . 
